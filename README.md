@@ -1,2 +1,2 @@
-# dsa-javascript
-Repository contains solution using javascript for dsa leetcode problems
+# dsa-javascript-solutions
+DSA javascript solutions repository contains solution using javascript for all dsa leetcode problems
